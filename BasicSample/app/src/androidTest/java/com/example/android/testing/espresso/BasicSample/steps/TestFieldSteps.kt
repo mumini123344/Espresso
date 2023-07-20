@@ -5,7 +5,6 @@ import androidx.test.espresso.assertion.ViewAssertions.matches
 import com.example.android.testing.espresso.BasicSample.getText
 
 import com.example.android.testing.espresso.BasicSample.pages.TestFieldPage.ChangeText
-import com.example.android.testing.espresso.BasicSample.pages.TestFieldPage.LogOutButtonMatcher
 
 import com.example.android.testing.espresso.BasicSample.pages.TestFieldPage.OpenActivity
 import com.example.android.testing.espresso.BasicSample.pages.TestFieldPage.ShowTextView
